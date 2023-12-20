@@ -1,0 +1,14 @@
+{
+  "name": "splitthebill",
+  "version": "1.0.0",
+  "description": "SPA to calculate how to split the bill ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Santapaola",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
