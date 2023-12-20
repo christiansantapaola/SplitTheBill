@@ -1,6 +1,5 @@
 {
   "name": "splitthebill",
-<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -24,17 +23,5 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.4"
-=======
-  "version": "1.0.0",
-  "description": "SPA to calculate how to split the bill ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Christian Santapaola",
-  "license": "MIT",
-  "devDependencies": {
-    "typescript": "^5.3.3"
->>>>>>> 962698f3cd29743270ed92d486cd79d5d709802d
   }
 }
